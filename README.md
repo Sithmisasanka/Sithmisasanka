@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
-
 ---
 
 ## 🌱 About Me  
