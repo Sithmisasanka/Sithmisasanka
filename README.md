@@ -4,8 +4,20 @@
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
+<!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=💻+Software+Engineering+Student+@+SLIIT;🎨+UI%2FUX+Lover+with+anime+vibes;🚀+Learning+to+build+beautiful+web+experiences" />
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=550&color=FFFFFF&lines=%F0%9F%92%BB+Software+Engineering+Student+%40+SLIIT;%F0%9F%8E%A8+UI%2FUX+Lover+with+anime+vibes;%F0%9F%9A%80+Learning+to+build+beautiful+web+experiences"
+    />
+    <!-- Light mode -->
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=550&color=000000&lines=%F0%9F%92%BB+Software+Engineering+Student+%40+SLIIT;%F0%9F%8E%A8+UI%2FUX+Lover+with+anime+vibes;%F0%9F%9A%80+Learning+to+build+beautiful+web+experiences"
+      alt="Typing animation"
+    />
+  </picture>
 </p>
 
 <h3 align="center">🌸 Welcome to my little corner of GitHub 🌸</h3>
@@ -23,7 +35,18 @@
 
 <!-- 🏆 TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
+    />
+    <!-- Light mode -->
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
+      alt="GitHub trophies"
+    />
+  </picture>
 </p>
 
 ---
