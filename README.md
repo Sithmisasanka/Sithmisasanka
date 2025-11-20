@@ -4,7 +4,6 @@
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
-<!-- ✨ TYPING ANIMATION -->
 <p align="center">
   <picture>
     <!-- Dark mode -->
@@ -35,18 +34,10 @@
 
 <!-- 🏆 TROPHIES -->
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
-    />
-    <!-- Light mode -->
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
-      alt="GitHub trophies"
-    />
-  </picture>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sithmisasanka&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub trophies"
+  />
 </p>
 
 ---
