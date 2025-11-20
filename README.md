@@ -56,11 +56,11 @@
   <a href="https://instagram.com/imsithmis">
     <img src="https://img.shields.io/badge/Instagram-ff8bbf?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sithmisasanka2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ffa9c6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sithmi-sasanka-964751256/">
     <img src="https://img.shields.io/badge/LinkedIn-fcb7dd?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
