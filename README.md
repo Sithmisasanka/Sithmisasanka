@@ -30,7 +30,7 @@
 
 ## 🌱 About Me  
 
-- 🎓 2nd year **Software Engineering student @ SLIIT**  
+- 🎓 **Software Engineering student @ SLIIT**  
 - 🎨 Loves **UI/UX, pastel themes, and cute anime aesthetics**  
 - 💻 Learning **Python, Java, JavaScript, C++ & web development**  
 - 🤝 Open to **collabs on creative and beginner-friendly projects**  
