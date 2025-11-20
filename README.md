@@ -53,26 +53,19 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://instagram.com/imsithmis" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  <a href="https://instagram.com/imsithmis">
+    <img src="https://img.shields.io/badge/Instagram-ff8bbf?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
----
----
----
----
----
-  <a href="mailto:sithmisasanka2002@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  &nbsp;&nbsp;
+  <a href="mailto:sithmisasanka2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ffa9c6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
----
----
----
----
----
-  <a href="https://www.linkedin.com/in/sithmi-sasanka-964751256/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sithmi-sasanka-964751256/">
+    <img src="https://img.shields.io/badge/LinkedIn-fcb7dd?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
