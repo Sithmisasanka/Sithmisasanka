@@ -56,19 +56,19 @@
   <a href="https://instagram.com/imsithmis" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
-
-
-
-
-  
+---
+---
+---
+---
+---
   <a href="mailto:sithmisasanka2002@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-
-
-
-
-  
+---
+---
+---
+---
+---
   <a href="https://www.linkedin.com/in/sithmi-sasanka-964751256/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
